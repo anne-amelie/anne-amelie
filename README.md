@@ -2,7 +2,7 @@
 - 👀 I’m interested in cats who can code
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me: don't
+- 📫 How to reach me: DON'T
 - 😄 Pronouns: she/her/otter
 - ⚡ Fun fact: sometimes my code works
 
